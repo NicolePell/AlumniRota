@@ -1,0 +1,19 @@
+body {
+	background: #222;
+	color: #EEE;
+	font: 1.5rem Arial, Verdana, Sans-Serif;
+	margin: 0;
+	padding: 5%;
+	text-align: center;
+}
+              
+a {
+	margin: 10%;
+	font-size: 1rem;
+	font-weight: 700;
+	color: #EEE;
+}
+
+button {
+	color: black !important;
+}
